@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Conceitos básicos de design de interação;
   * Design centrado no usuário (UCD);
   * Psicologia cognitiva aplicada ao design;
+  * Modelos mentais e padrões de interação.
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
