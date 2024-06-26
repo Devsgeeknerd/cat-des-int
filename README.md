@@ -29,6 +29,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Teoria das cores;
   * Tipografia e legibilidade;
   * Hierarquia visual;
+  * Design para acessibilidade.
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
