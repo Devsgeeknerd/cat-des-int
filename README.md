@@ -33,6 +33,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Usabilidade e Testes de Usabilidade:** Técnicas para avaliar e melhorar a usabilidade de uma interface.
   * Princípios de usabilidade (heurísticas de Nielsen);
+  * Planejamento e condução de testes de usabilidade;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
