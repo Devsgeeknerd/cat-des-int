@@ -22,6 +22,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Wireframing e Prototipagem:** Criação de esboços e protótipos para testar e refinar conceitos de design.
   * Ferramentas de wireframing;
   * Técnicas de prototipagem (baixa fidelidade e alta fidelidade);
+  * Testes de protótipos com usuários;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
