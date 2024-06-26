@@ -26,6 +26,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Iteração baseada em feedback.
 
 * **Design Visual e Tipografia:** Princípios de design visual que contribuem para uma interface atraente e eficaz.
+  * Teoria das cores;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
