@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Mapeamento de jornada do usuário;
   * Análise de dados qualitativos e quantitativos.
 
+* **Wireframing e Prototipagem:** Criação de esboços e protótipos para testar e refinar conceitos de design.
+
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
 <!-- Informações -->
