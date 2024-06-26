@@ -14,6 +14,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Modelos mentais e padrões de interação.
 
 * **Pesquisa de Usuário e Personas:** Técnicas para entender as necessidades, comportamentos e objetivos dos usuários.
+  * Métodos de pesquisa (entrevistas, questionários, observação);
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
