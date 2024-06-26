@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Psicologia cognitiva aplicada ao design;
   * Modelos mentais e padrões de interação.
 
+* **Pesquisa de Usuário e Personas:** Técnicas para entender as necessidades, comportamentos e objetivos dos usuários.
+
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
 <!-- Informações -->
