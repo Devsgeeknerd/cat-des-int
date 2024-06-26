@@ -9,6 +9,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Princípios de Design de Interação:** Fundamentos do design de interação e teorias que suportam a criação de interfaces eficazes.
   * Conceitos básicos de design de interação;
+  * Design centrado no usuário (UCD);
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
