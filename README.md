@@ -31,6 +31,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Hierarquia visual;
   * Design para acessibilidade.
 
+* **Usabilidade e Testes de Usabilidade:** Técnicas para avaliar e melhorar a usabilidade de uma interface.
+
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
 <!-- Informações -->
