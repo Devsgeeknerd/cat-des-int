@@ -20,6 +20,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Análise de dados qualitativos e quantitativos.
 
 * **Wireframing e Prototipagem:** Criação de esboços e protótipos para testar e refinar conceitos de design.
+  * Ferramentas de wireframing;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
