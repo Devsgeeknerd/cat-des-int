@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Designer de Interação é fundamental para criar interfaces de usuário intuitivas, eficazes e agradáveis.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
+
 <!-- Informações -->
 ## &#8505; Informações
 
