@@ -23,6 +23,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas de wireframing;
   * Técnicas de prototipagem (baixa fidelidade e alta fidelidade);
   * Testes de protótipos com usuários;
+  * Iteração baseada em feedback.
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
