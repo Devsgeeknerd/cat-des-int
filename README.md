@@ -16,6 +16,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Pesquisa de Usuário e Personas:** Técnicas para entender as necessidades, comportamentos e objetivos dos usuários.
   * Métodos de pesquisa (entrevistas, questionários, observação);
   * Criação e uso de personas;
+  * Mapeamento de jornada do usuário;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
