@@ -44,6 +44,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Integração com equipes de desenvolvimento.
 
 * **Design de Experiência do Usuário (UX):** Criação de experiências completas e coerentes para os usuários.
+  * Princípios de UX;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
