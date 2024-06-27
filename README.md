@@ -59,6 +59,9 @@ Permitirá criar experiências digitais centradas no usuário que atendam às su
 >
 > * Feedback e Revisão:
 >   * Busque feedback de colegas e mentores para melhorar seus designs.
+>
+> * Estudo de Casos:
+>   * Análise estudos de caso de design de interação para entender decisões
 
 <!-- Informações -->
 ## &#8505; Informações
