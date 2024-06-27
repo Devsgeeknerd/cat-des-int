@@ -62,6 +62,9 @@ Permitirá criar experiências digitais centradas no usuário que atendam às su
 >
 > * Estudo de Casos:
 >   * Análise estudos de caso de design de interação para entender decisões e processos.
+>
+> * Atualização Contínua;
+>   * Mantenha-se atualizado com as tendências e tecnologias emergentes no campo do design de interação.
 
 <!-- Informações -->
 ## &#8505; Informações
