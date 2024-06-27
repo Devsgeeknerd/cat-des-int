@@ -41,6 +41,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas de design;
   * Ferramentas de prototipagem;
   * Ferramentas de colaboração e feedback (miro, zeplin);
+  * Integração com equipes de desenvolvimento.
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
