@@ -38,6 +38,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Melhoria continua baseada em feedback de usabilidade.
 
 * **Ferramentas de Design e Colaboração:** Utilização de ferramentas modernas para design de interação e colaboração em equipe.
+  * Ferramentas de design;
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
