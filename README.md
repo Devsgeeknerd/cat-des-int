@@ -43,6 +43,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas de colaboração e feedback (miro, zeplin);
   * Integração com equipes de desenvolvimento.
 
+* **Design de Experiência do Usuário (UX):** Criação de experiências completas e coerentes para os usuários.
+
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
 <!-- Informações -->
