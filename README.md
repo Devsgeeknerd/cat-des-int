@@ -47,6 +47,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Princípios de UX;
   * Design para diferentes dispositivos e contextos (responsividade);
   * Acessibilidade e inclusão;
+  * Estratégia de conteúdo e arquitetura da informação.
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
