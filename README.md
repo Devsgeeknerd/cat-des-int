@@ -56,6 +56,9 @@ Permitirá criar experiências digitais centradas no usuário que atendam às su
 >
 > * Prática Constante:
 >   * Desenvolva seus próprios projetos de design para aplicar os conceitos aprendidos.
+>
+> * Feedback e Revisão:
+>   * Busque feedback de colegas e mentores para melhorar seus designs.
 
 <!-- Informações -->
 ## &#8505; Informações
