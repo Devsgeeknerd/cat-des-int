@@ -51,6 +51,11 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 Permitirá criar experiências digitais centradas no usuário que atendam às suas necessidades e expectativas.
 
+> [!IMPORTANT]\
+> **Dicas de Estudo:**
+>
+>
+
 <!-- Informações -->
 ## &#8505; Informações
 
