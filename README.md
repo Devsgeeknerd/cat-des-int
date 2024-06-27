@@ -54,7 +54,8 @@ Permitirá criar experiências digitais centradas no usuário que atendam às su
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
 >
->
+> * Prática Constante:
+>   * Desenvolva seus próprios projetos de design para aplicar os conceitos aprendidos.
 
 <!-- Informações -->
 ## &#8505; Informações
